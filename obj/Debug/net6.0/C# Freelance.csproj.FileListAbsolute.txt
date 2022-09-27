@@ -1,0 +1,15 @@
+C:\Users\Ibrahim\Desktop\C# Freelance\bin\Debug\net6.0\C# Freelance.exe
+C:\Users\Ibrahim\Desktop\C# Freelance\bin\Debug\net6.0\C# Freelance.deps.json
+C:\Users\Ibrahim\Desktop\C# Freelance\bin\Debug\net6.0\C# Freelance.runtimeconfig.json
+C:\Users\Ibrahim\Desktop\C# Freelance\bin\Debug\net6.0\C# Freelance.dll
+C:\Users\Ibrahim\Desktop\C# Freelance\bin\Debug\net6.0\C# Freelance.pdb
+C:\Users\Ibrahim\Desktop\C# Freelance\obj\Debug\net6.0\C# Freelance.csproj.AssemblyReference.cache
+C:\Users\Ibrahim\Desktop\C# Freelance\obj\Debug\net6.0\C# Freelance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ibrahim\Desktop\C# Freelance\obj\Debug\net6.0\C# Freelance.AssemblyInfoInputs.cache
+C:\Users\Ibrahim\Desktop\C# Freelance\obj\Debug\net6.0\C# Freelance.AssemblyInfo.cs
+C:\Users\Ibrahim\Desktop\C# Freelance\obj\Debug\net6.0\C# Freelance.csproj.CoreCompileInputs.cache
+C:\Users\Ibrahim\Desktop\C# Freelance\obj\Debug\net6.0\C# Freelance.dll
+C:\Users\Ibrahim\Desktop\C# Freelance\obj\Debug\net6.0\refint\C# Freelance.dll
+C:\Users\Ibrahim\Desktop\C# Freelance\obj\Debug\net6.0\C# Freelance.pdb
+C:\Users\Ibrahim\Desktop\C# Freelance\obj\Debug\net6.0\C# Freelance.genruntimeconfig.cache
+C:\Users\Ibrahim\Desktop\C# Freelance\obj\Debug\net6.0\ref\C# Freelance.dll
